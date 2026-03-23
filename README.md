@@ -9,7 +9,9 @@ Analiza danych dotyczących produktów kosmetycznych w SQl
 
 Link: https://www.kaggle.com/datasets/waqi786/most-used-beauty-cosmetics-products-in-the-world
 
-Cel: aanaliza portfolia produktów w oparciu o ceny i oceny użytkowników, trendy etycznego testowania kosmetyków oraz wskazanie najbardziej lubianych marek z branży beauty
+Cel: analiza portfolia produktów w oparciu o ceny i oceny użytkowników, trendy etycznego testowania kosmetyków oraz wskazanie najbardziej lubianych marek z branży beauty
+
+
 IDE: SQL, runsql.com + Tableau
 
 Kod: całość z komentarzami do pobrania w osobnym pliku .sql
