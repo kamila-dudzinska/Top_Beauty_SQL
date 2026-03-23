@@ -1,4 +1,4 @@
-# Top_Beauty_SQL-Tableau
+# Top_Beauty_SQL
 
 Analiza danych dotyczących produktów kosmetycznych
 
